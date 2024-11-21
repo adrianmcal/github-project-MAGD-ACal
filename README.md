@@ -11,3 +11,9 @@ There is no way to win or lose, and instead, the project is just a demonstration
 
 ## Lab Assignment Eight
 
+Lab Assignment Eight was a simple game created to demonstrate the usage of transparent PNGs, GIFs, and different formattings and stylizations of text in p5js.
+The gameplay involves the user dragging their mouse to the heart PNG and pressing it.
+As the mouse approaches the heart the two JPGs of cats will approach one another.
+When the user clicks on the heart, the two JPGs will overlap and a gif of hearts will appear above them.
+
+## Lab Assignment 
